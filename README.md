@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to join you guys on **Full-Stack Blockchain projects**
 
-- 🚀 Skills **Front-End: - HTML, CSS, JavaScript - React, Next.js, Tailwind CSS ; Back-End: - Node.js - MongoDB ; Languages: - TypeScript - Solidity (currently learning)**
+- 🚀 Skills **Front-End: - HTML, CSS, JavaScript - React, Next.js, Vuejs, Tailwind CSS ; Back-End: - Node.js - MongoDB -Flask; Languages: - TypeScript - Solidity (currently learning)**
 
 - 👨‍💻 To know about me and connect with me [https://madhuvarsha.vercel.app/](https://madhuvarsha.vercel.app/)
 
