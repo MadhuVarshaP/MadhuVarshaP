@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Madhu Varsha</h1>
-<h3 align="center">A passionate Blockchain Full-Stack developer</h3>
+<h3 align="center">Full-Stack Blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuvarshap&label=Profile%20views&color=0e75b6&style=flat" alt="madhuvarshap" /> </p>
 
 <p align="left"> <a href="https://twitter.com/madhuvarshap" target="blank"><img src="https://img.shields.io/twitter/follow/madhuvarshap?logo=twitter&style=for-the-badge" alt="madhuvarshap" /></a> </p>
 
 - 👯 I’m looking to join you guys on **Full-Stack Blockchain projects**
-
-- 🚀 Skills **Front-End: - HTML, CSS, JavaScript - React, Next.js, Vuejs, Tailwind CSS ; Back-End: - Node.js - MongoDB -Flask; Languages: - TypeScript - Solidity**
 
 - 👨‍💻 To know about me and connect with me [https://bento.me/madhuvarsha](https://bento.me/madhuvarsha)
 
