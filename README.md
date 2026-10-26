@@ -4,18 +4,18 @@
 
 ## About
 
-I'm a software developer with 2+ years of experience building full-stack Web3 applications, spanning smart contracts, backend services, and frontends. I've contributed to projects including **B2F** and **Poppys**, alongside my own work across DeFi, NFT, and developer-tooling products.
+I came from a pure science background and found my way into code during my B.Tech in Computer Science. A blockchain workshop in my second year pulled me in, and that curiosity became a career. Today I work remotely and part-time as a software engineer in the blockchain space, building secure, reliable systems.
 
-I enjoy being part of the developer community, and I'd love to contribute to interesting projects, host events, or join as a speaker. I'm also constantly learning in AI, and I'm looking forward to contributing to AI projects and exploring more at the intersection of AI and Web3.
+I learned with AI, still learn with AI, and now build AI products too. I’m excited by the intersection of AI and Web3 and want to keep exploring it. I’ve won international hackathons, built a PvP trading game on Base with a team of three that earned a grant, and I love being part of the developer community. I’ve hosted events and spoken on blockchain and zero-knowledge technology, and I’m always happy to host or speak again.
 
-I'm currently relocating to Dubai, UAE, and open to new full-stack, AI, and Web3 opportunities.
+I’m based in Dubai, pursuing my MSc in Financial Technology, and open to new full-stack, AI and Web3 opportunities.
 
 ## Let's connect
 
-Portfolio: [https://madhuvarsha.vercel.app/](https://madhuvarsha.vercel.app/)
+Portfolio: [https://madhuvarsha.xyz/](https://madhuvarsha.xyz/)
 
-Email: madhuvarsha0608@gmail.com
+Email: madhuvarsha90809@gmail.com
 
 X: [https://x.com/madhuvarsha_](https://x.com/madhuvarsha_)
 
-LinkedIn: [https://www.linkedin.com/in/madhu-varsha-p-a7ba26259/](https://www.linkedin.com/in/madhu-varsha-p-a7ba26259/)
+LinkedIn: [https://www.linkedin.com/in/madhu-varsha-p/](https://www.linkedin.com/in/madhu-varsha-p/)
